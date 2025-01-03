@@ -1,3 +1,5 @@
+import java.awt.*;
+
 public class WishListItem {
 
     private String title;
